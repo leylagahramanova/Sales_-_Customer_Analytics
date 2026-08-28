@@ -5,6 +5,12 @@ This project is a Tableau-based analytics initiative designed to transform raw s
 
 The analysis combines transactional order data with customer, product, and location information to provide a 360-degree view of revenue generation, customer retention potential, and product performance. By turning data into visual stories, the dashboard helps stakeholders understand not just what happened, but why it happened and where opportunities exist.
 
+### Dashboard Preview
+
+![Sales and Customer Dashboard Overview](screenshots/Screenshot%202026-08-28%20at%2011.55.27.png)
+
+![Customer and Sales Detail View](screenshots/Screenshot%202026-08-28%20at%2011.56.37.png)
+
 ---
 
 ## Business Problem: The Need for Clarity
@@ -71,7 +77,6 @@ The dashboard building process followed a structured BI design flow:
 7. Refine the layout for clarity, readability, and executive presentation.
 
 The final dashboard is intended to serve as a reusable management tool for performance review, sales monitoring, and customer insights.
-![Sales Dashboard with Filters](image.png)
 
 ---
 
